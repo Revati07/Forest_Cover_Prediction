@@ -100,7 +100,6 @@ Contributions are welcome! If you find bugs or have suggestions, feel free to ra
 # Contact
 
 Created by Revati Mahajan
-🔗 LinkedIn • 🔗 GitHub
 
 # License
 
